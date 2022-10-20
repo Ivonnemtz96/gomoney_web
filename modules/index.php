@@ -10,18 +10,18 @@
         <div id="slide-1" class="slider-direction">
             <div class="container">
                 <div class="content-part">
-                    <span class="sl-subtitle">Welcome to Solvency</span>
+                    <span class="sl-subtitle">Préstamos en minutos</span>
                     <h1 class="sl-title">
-                        Personalized <br>
-                        Credit Repair <br>
-                        Services <br>
+                        Go Money<br>
+                        Te presta <br>
+                        ¡Hasta $4,000
+                        <br> sin aval!<br>
                     </h1>
                     <p class="sl-desc">
-                        We are leading credit repair services company<br>
-                        all over the world doing over 40 years.
+                       ¡Fácil, rápido y seguro!
                     </p>
                     <div class="slider-bottom">
-                        <a class="readon slide-started" href="contact.html">Get Started</a>
+                        <a class="readon slide-started" href="contact.html">Solicitar crédito</a>
                     </div>
                 </div>
                 <div class="slide-image"></div>
@@ -31,18 +31,17 @@
         <div id="slide-2" class="slider-direction">
             <div class="container">
                 <div class="content-part">
-                    <span class="sl-subtitle">Welcome to Solvency</span>
+                    <span class="sl-subtitle">¿Te falta dinero?</span>
                     <h1 class="sl-title">
-                        Personalized <br>
-                        Credit Repair <br>
-                        Services <br>
+                        Relájate <br>
+                        Con<br>
+                        Go Money <br>
                     </h1>
                     <p class="sl-desc">
-                        We are leading credit repair services company<br>
-                        all over the world doing over 40 years.
+                        Nosotros nos encargamos del resto
                     </p>
                     <div class="slider-bottom">
-                        <a class="readon slide-started" href="contact.html">Get Started</a>
+                        <a class="readon slide-started" href="contact.html">Solicitar crédito</a>
                     </div>
                 </div>
                 <div class="slide-image"></div>
@@ -117,7 +116,7 @@
             </div>
             <div class="col-lg-6 pl-40 md-pl-15">
                 <div class="sec-title mb-40 md-mb-25">
-                    <span class="sub-text">About Us</span>
+                    <span class="sub-text">Nosotros</span>
                     <h2 class="title pb-25">
                         Rebuild, Repair & Improve Your Credit Score!
                     </h2>
