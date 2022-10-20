@@ -4,7 +4,6 @@
 include('includes/head.php');
 ?>
 <body class="defult-home">
-    <div class="offwrap"></div>
     <?
         include('includes/preloader.php');
     ?>
