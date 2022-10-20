@@ -101,3 +101,152 @@
     </div>
 </div>
 <!-- Faq End -->
+
+
+<!-- Testimonial Section Start -->
+<div id="rs-testimonial" class="rs-testimonial testimonial-style1 bg4 pt-120 pb-115 md-pt-80 md-pb-75">
+    <div class="container">
+        <div class="sec-title mb-45">
+            <span class="sub-text">Testimonial</span>
+            <h2 class="title">
+                Our Client Reviews
+            </h2>
+        </div>
+        <div class="rs-carousel owl-carousel" data-loop="true" data-items="2" data-margin="30" data-autoplay="true" data-hoverpause="true" data-autoplay-timeout="5000" data-smart-speed="800" data-dots="false" data-nav="false" data-nav-speed="false" data-center-mode="false" data-mobile-device="1" data-mobile-device-nav="false" data-mobile-device-dots="false" data-ipad-device="2" data-ipad-device-nav="false" data-ipad-device-dots="true" data-ipad-device2="2" data-ipad-device-nav2="false" data-ipad-device-dots2="true" data-md-device="2" data-md-device-nav="false" data-md-device-dots="true">
+            <div class="testi-item">
+                <div class="testi-wrap">
+                    <div class="item-content-basic">
+                        <span>
+                            <img src="assets/images/testimonial/style1/quote.png" alt="Images">
+                        </span>
+                        <p>Education is the passport to the future for the tomor row belongs to those who pre pare for it today. Sed ut perspiciatis unde omnis natus errorsit vo luptatem. Education is the passport to the future credit repair.</p>
+                    </div>
+                    <div class="testi-content">
+                        <div class="image-wrap">
+                            <img src="assets/images/testimonial/style1/1.jpg" alt="Images">
+                        </div>
+                        <div class="testi-information">
+                            <div class="testi-name">Holing Tums</div>
+                            <span class="designation">Developer</span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="testi-item">
+                <div class="testi-wrap">
+                    <div class="item-content-basic">
+                        <span>
+                            <img src="assets/images/testimonial/style1/quote.png" alt="Images">
+                        </span>
+                        <p>Education is the passport to the future for the tomor row belongs to those who pre pare for it today. Sed ut perspiciatis unde omnis natus errorsit vo luptatem. Education is the passport to the future credit repair.</p>
+                    </div>
+                    <div class="testi-content">
+                        <div class="image-wrap">
+                            <img src="assets/images/testimonial/style1/2.jpg" alt="Images">
+                        </div>
+                        <div class="testi-information">
+                            <div class="testi-name">Nikoling Toli</div>
+                            <span class="designation">Manager</span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="testi-item">
+                <div class="testi-wrap">
+                    <div class="item-content-basic">
+                        <span>
+                            <img src="assets/images/testimonial/style1/quote.png" alt="Images">
+                        </span>
+                        <p>Education is the passport to the future for the tomor row belongs to those who pre pare for it today. Sed ut perspiciatis unde omnis natus errorsit vo luptatem. Education is the passport to the future credit repair.</p>
+                    </div>
+                    <div class="testi-content">
+                        <div class="image-wrap">
+                            <img src="assets/images/testimonial/style1/3.jpg" alt="Images">
+                        </div>
+                        <div class="testi-information">
+                            <div class="testi-name">Nicolas Puranix</div>
+                            <span class="designation">Matrix Consulting</span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="testi-item">
+                <div class="testi-wrap">
+                    <div class="item-content-basic">
+                        <span>
+                            <img src="assets/images/testimonial/style1/quote.png" alt="Images">
+                        </span>
+                        <p>Education is the passport to the future for the tomor row belongs to those who pre pare for it today. Sed ut perspiciatis unde omnis natus errorsit vo luptatem. Education is the passport to the future credit repair.</p>
+                    </div>
+                    <div class="testi-content">
+                        <div class="image-wrap">
+                            <img src="assets/images/testimonial/style1/4.jpg" alt="Images">
+                        </div>
+                        <div class="testi-information">
+                            <div class="testi-name">John Brovo</div>
+                            <span class="designation">Digital Marketer</span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="testi-item">
+                <div class="testi-wrap">
+                    <div class="item-content-basic">
+                        <span>
+                            <img src="assets/images/testimonial/style1/quote.png" alt="Images">
+                        </span>
+                        <p>Education is the passport to the future for the tomor row belongs to those who pre pare for it today. Sed ut perspiciatis unde omnis natus errorsit vo luptatem. Education is the passport to the future credit repair.</p>
+                    </div>
+                    <div class="testi-content">
+                        <div class="image-wrap">
+                            <img src="assets/images/testimonial/style1/1.jpg" alt="Images">
+                        </div>
+                        <div class="testi-information">
+                            <div class="testi-name">Holing Tums</div>
+                            <span class="designation">Developer</span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="testi-item">
+                <div class="testi-wrap">
+                    <div class="item-content-basic">
+                        <span>
+                            <img src="assets/images/testimonial/style1/quote.png" alt="Images">
+                        </span>
+                        <p>Education is the passport to the future for the tomor row belongs to those who pre pare for it today. Sed ut perspiciatis unde omnis natus errorsit vo luptatem. Education is the passport to the future credit repair.</p>
+                    </div>
+                    <div class="testi-content">
+                        <div class="image-wrap">
+                            <img src="assets/images/testimonial/style1/2.jpg" alt="Images">
+                        </div>
+                        <div class="testi-information">
+                            <div class="testi-name">Nikoling Toli</div>
+                            <span class="designation">Manager</span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="testi-item">
+                <div class="testi-wrap">
+                    <div class="item-content-basic">
+                        <span>
+                            <img src="assets/images/testimonial/style1/quote.png" alt="Images">
+                        </span>
+                        <p>Education is the passport to the future for the tomor row belongs to those who pre pare for it today. Sed ut perspiciatis unde omnis natus errorsit vo luptatem. Education is the passport to the future credit repair.</p>
+                    </div>
+                    <div class="testi-content">
+                        <div class="image-wrap">
+                            <img src="assets/images/testimonial/style1/3.jpg" alt="Images">
+                        </div>
+                        <div class="testi-information">
+                            <div class="testi-name">Nicolas Puranix</div>
+                            <span class="designation">Matrix Consulting</span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- Testimonial Section End -->
