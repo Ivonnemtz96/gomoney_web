@@ -1,7 +1,7 @@
 <head>
     <!-- meta tag -->
     <meta charset="utf-8">
-    <title>Onepage1 - Solvency - Credit Repair & Finance HTML Template</title>
+    <title>Go Money</title>
     <meta name="description" content="">
     <!-- responsive tag -->
     <meta http-equiv="x-ua-compatible" content="ie=edge">
@@ -33,7 +33,7 @@
     <!-- spacing css -->
     <link rel="stylesheet" type="text/css" href="assets/css/rs-spacing.css">
     <!-- style css -->
-    <link rel="stylesheet" type="text/css" href="style.css"> <!-- This stylesheet dynamically changed from style.less -->
+    <link rel="stylesheet" type="text/css" href="assets/css/style.css"> <!-- This stylesheet dynamically changed from style.less -->
     <!-- responsive css -->
     <link rel="stylesheet" type="text/css" href="assets/css/responsive.css">
     
