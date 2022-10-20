@@ -7,7 +7,7 @@
             </div>
             <!-- Slide 1 -->
             <div id="slide-1" class="slider-direction">
-                <div class="container">
+                <div class="container" >
                     <div class="content-part">
                         <span class="sl-subtitle">Welcome to Solvency</span>
                         <h1 class="sl-title">
