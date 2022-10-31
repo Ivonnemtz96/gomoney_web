@@ -23,8 +23,10 @@
                     <div class="col-lg-5">
                         <div class="toolbar-sl-share">
                             <ul class="clearfix">
-                                <li><a target="_blank" href="https://www.facebook.com/Gomoneyprestamos"><i style="color: #f4a516;" class="fa fa-facebook"></i></a></li>
-                                <li><a target="_blank" href="https://www.instagram.com/gomoneymx/"><i style="color: #f4a516;" class="fa fa-instagram"></i></a></li>
+                                <li><a target="_blank" href="https://www.facebook.com/Gomoneyprestamos"><i
+                                            style="color: #f4a516;" class="fa fa-facebook"></i></a></li>
+                                <li><a target="_blank" href="https://www.instagram.com/gomoneymx/"><i
+                                            style="color: #f4a516;" class="fa fa-instagram"></i></a></li>
                             </ul>
                         </div>
                     </div>
@@ -62,7 +64,8 @@
                     <div class="col-cell">
                         <div class="expand-btn-inner">
                             <ul>
-                                <li class="btn-quote"><a target="_blank" class="quote-button" href="https://formulario.gomoneymx.com/">Solicitar Crédito</a></li>
+                                <li class="btn-quote"><a target="_blank" class="quote-button"
+                                        href="https://formulario.gomoneymx.com/">Solicitar Crédito</a></li>
                                 <li class="humburger">
                                     <a id="nav-expander" class="nav-expander bar" href="#">
                                         <div class="bar">
@@ -101,8 +104,7 @@
                     <a href="index.html"><img src="assets/images/logo-dark.png" alt="logo"></a>
                 </div>
                 <div class="offcanvas-text">
-                    <p>Teknolab quisque placerat vitae lacus ut scelerisque. Fusce luctus odio ac nibh luctus, in
-                        porttitor theo lacus egestas etiusto odio data center.</p>
+                    <p>Go Money</p>
                 </div>
                 <div class="canvas-contact">
                     <div class="address-area">
@@ -110,18 +112,18 @@
                             <div class="info-icon">
                                 <i class="flaticon-location"></i>
                             </div>
-                            <div class="info-content">
-                                <h4 class="title">Address</h4>
+                            <!-- <div class="info-content">
+                                <h4 class="title">Direccion</h4>
                                 <em>05 kandi BR. New York</em>
-                            </div>
+                            </div> -->
                         </div>
                         <div class="address-list">
                             <div class="info-icon">
                                 <i class="flaticon-email"></i>
                             </div>
                             <div class="info-content">
-                                <h4 class="title">Email</h4>
-                                <em><a href="mailto:Devsdesign">Devsdesign</a></em>
+                                <h4 class="title">Correo</h4>
+                                <em><a href="mailto:Devsdesign">cobranza@gomoney.mx</a></em>
                             </div>
                         </div>
                         <div class="address-list">
@@ -157,27 +159,12 @@
             </div>
             <ul class="nav-menu">
                 <li class="menu-item-has-children current-menu-item">
-                    <a href="index.html">Home</a>
-                    <ul class="sub-menu">
-                        <li class="menu-item-has-children current-menu-item">
-                            <a href="#">Multipages</a>
-                            <ul class="sub-menu">
-                                <li class="active"><a href="index.html">Home One</a></li>
-                                <li><a href="index2.html">Home Two</a></li>
-                                <li><a href="index3.html">Home Three</a></li>
-                            </ul>
-                        </li>
-                        <li class="menu-item-has-children">
-                            <a href="#">Onepages</a>
-                            <ul class="sub-menu">
-                                <li><a href="onepage1.html">Onepage One</a></li>
-                                <li><a href="onepage2.html">Onepage Two</a></li>
-                                <li><a href="onepage3.html">Onepage Three</a></li>
-                            </ul>
-                        </li>
-                    </ul>
+                    <a href="index.html">Inicio</a>
                 </li>
-                <li>
+                <li><a href="#rs-about">Nosotros</a> </li>
+                <li><a href="#rs-tab-main">Pasos</a> </li>
+                <li><a href="#rs-project">Sucursales</a> </li>
+                <!-- <li>
                     <a href="about-us.html">About Us</a>
                 </li>
                 <li class="menu-item-has-children">
@@ -245,7 +232,7 @@
                 </li>
                 <li>
                     <a href="contact.html">Contact</a>
-                </li>
+                </li> -->
             </ul> <!-- //.nav-menu -->
             <!-- //.nav-menu -->
 
@@ -253,21 +240,21 @@
             <div class="canvas-contact">
                 <div class="address-area">
                     <div class="address-list">
-                        <div class="info-icon">
+                        <!-- <div class="info-icon">
                             <i class="flaticon-location"></i>
-                        </div>
-                        <div class="info-content">
+                        </div> -->
+                        <!-- <div class="info-content">
                             <h4 class="title">Address</h4>
                             <em>05 kandi BR. New York</em>
-                        </div>
+                        </div> -->
                     </div>
                     <div class="address-list">
                         <div class="info-icon">
                             <i class="flaticon-email"></i>
                         </div>
                         <div class="info-content">
-                            <h4 class="title">Email</h4>
-                            <em><a href="mailto:Devsdesign">Devsdesign</a></em>
+                            <h4 class="title">Correo</h4>
+                            <em><a href="mailto:cobranza@gomoney.mx">cobranza@gomoney.mx</a></em>
                         </div>
                     </div>
                     <div class="address-list">
@@ -275,8 +262,8 @@
                             <i class="flaticon-call"></i>
                         </div>
                         <div class="info-content">
-                            <h4 class="title">Phone</h4>
-                            <em>+019988772</em>
+                            <h4 class="title">Teléfono</h4>
+                            <em><a href="tel:624 191 1714">624 191 1714</a></em>
                         </div>
                     </div>
                 </div>
