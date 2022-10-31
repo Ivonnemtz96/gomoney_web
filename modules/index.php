@@ -475,29 +475,29 @@
                 </div>
                 <div class="project-content">
                     <div class="project-inner">
-                        <h3 class="title"><a href="#"> San José del Cabo, B.C.S.</a></h3>
+                        <h3 class="title"><a target="_blank" href="https://goo.gl/maps/aAuJJGTk4DAHtvuR8"> San José del Cabo, B.C.S.</a></h3>
                         <!-- <p class="category"><a href="#">Pablo L. Martínez, 23407</a></p> -->
                     </div>
                 </div>
             </div>
-            <div class="project-item">
+            <!-- <div class="project-item">
                 <div class="project-img">
                     <img src="assets/images/project/style1/3.jpg" alt="images">
                 </div>
                 <div class="project-content">
                     <div class="project-inner">
                         <h3 class="title"><a href="case-studies-single.html">San José del Cabo, B.C.S.</a></h3>
-                        <!-- <p class="category"><a href="case-studies-single.html">Carr.Transpeninsular KM 34, El Rosarito</a></p> -->
+                        <p class="category"><a href="case-studies-single.html">Carr.Transpeninsular KM 34, El Rosarito</a></p>
                     </div>
                 </div>
-            </div>
+            </div> -->
             <div class="project-item">
                 <div class="project-img">
                     <img src="assets/images/project/style1/3.jpg" alt="images">
                 </div>
                 <div class="project-content">
                     <div class="project-inner">
-                        <h3 class="title"><a href="case-studies-single.html">Cabo San Lucas, B.C.S.</a></h3>
+                        <h3 class="title"><a target="_blank" href="https://goo.gl/maps/tvRxVLeMBmDCU2qj6">Cabo San Lucas, B.C.S.</a></h3>
                         <!-- <p class="category"><a href="case-studies-single.html">Plaza Los Patios, Brisas del Pacifico </a></p> -->
                     </div>
                 </div>
@@ -509,7 +509,7 @@
                 </div>
                 <div class="project-content">
                     <div class="project-inner">
-                        <h3 class="title"><a href="case-studies-single.html">La Paz, B.C.S.</a></h3>
+                        <h3 class="title"><a target="_blank" href="https://goo.gl/maps/MqpUWuVnoi35oJCZ8">La Paz, B.C.S.</a></h3>
                         <!-- <p class="category"><a href="case-studies-single.html">Blvd. Forjadores 500, Bella Vista </a></p> -->
                     </div>
                 </div>
@@ -520,7 +520,7 @@
                 </div>
                 <div class="project-content">
                     <div class="project-inner">
-                        <h3 class="title"><a href="case-studies-single.html">Ciudad Constitución, B.C.S</a></h3>
+                        <h3 class="title"><a target="_blank" href="https://goo.gl/maps/MqpUWuVnoi35oJCZ8">Ciudad Constitución, B.C.S</a></h3>
                         <!-- <p class="category"><a href="case-studies-single.html">Business</a></p> -->
                     </div>
                 </div>
