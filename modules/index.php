@@ -20,7 +20,7 @@
                         ¡Fácil, rápido y seguro!
                     </p>
                     <div class="slider-bottom">
-                        <a class="readon slide-started" href="contact.html">Solicitar crédito</a>
+                        <a class="readon slide-started" href="https://formulario.gomoneymx.com/" target="_blank">Solicitar crédito</a>
                     </div>
                 </div>
                 <div class="slide-image"></div>
@@ -40,7 +40,7 @@
                         Nosotros nos encargamos del resto
                     </p>
                     <div class="slider-bottom">
-                        <a class="readon slide-started" href="contact.html">Solicitar crédito</a>
+                        <a class="readon slide-started" href="https://formulario.gomoneymx.com/" target="_blank">Solicitar crédito</a>
                     </div>
                 </div>
                 <div class="slide-image"></div>
@@ -357,8 +357,8 @@
                             <img src="assets/images/services/style1/1.png" alt="Services">
                         </div>
                         <div class="services-content">
-                            <h3 class="title">Review Credit Reports</h3>
-                            <p class="services-txt">Lorem ipsum dolor sit amet consus sect adipiscing elit sed.</p>
+                            <h3 class="title">Solicítalo</h3>
+                            <p class="services-txt">Entra a nuestro link y llena los campos que se piden y envíalo.</p>
                         </div>
                     </div>
                 </div>
@@ -373,8 +373,8 @@
                             <img src="assets/images/services/style1/2.png" alt="Services">
                         </div>
                         <div class="services-content">
-                            <h3 class="title">Fix or Dispute Errors</h3>
-                            <p class="services-txt">Lorem ipsum dolor sit amet consus sect adipiscing elit sed.</p>
+                            <h3 class="title">Revisión</h3>
+                            <p class="services-txt">Uno de nuestros asesores revisará tus datos y te contactará.</p>
                         </div>
                     </div>
                 </div>
@@ -389,13 +389,13 @@
                             <img src="assets/images/services/style1/3.png" alt="Services">
                         </div>
                         <div class="services-content">
-                            <h3 class="title">Pay Your Bills On Time</h3>
-                            <p class="services-txt">Lorem ipsum dolor sit amet consus sect adipiscing elit sed.</p>
+                            <h3 class="title">Trámites</h3>
+                            <p class="services-txt">En menos de una hora tendrás tu préstamo</p>
                         </div>
                     </div>
                 </div>
             </div>
-            <div class="col-lg-4 col-md-6 md-mb-20">
+            <!-- <div class="col-lg-4 col-md-6 md-mb-20">
                 <div class="services-item">
                     <div class="services-wrap">
                         <div class="serial-number">
@@ -442,7 +442,7 @@
                         </div>
                     </div>
                 </div>
-            </div>
+            </div> -->
         </div>
     </div>
 </div>

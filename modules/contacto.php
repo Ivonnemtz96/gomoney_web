@@ -125,7 +125,7 @@
                     </div>
                     <div class="testi-content">
                         <div class="image-wrap">
-                            <img src="assets/images/testimonial/style1/1.jpg" alt="Images">
+                            <img src="assets/images/testimonial/style1/1.png" alt="Images">
                         </div>
                         <div class="testi-information">
                             <div class="testi-name">Cliente 1</div>
@@ -146,7 +146,7 @@
                     </div>
                     <div class="testi-content">
                         <div class="image-wrap">
-                            <img src="assets/images/testimonial/style1/2.jpg" alt="Images">
+                            <img src="assets/images/testimonial/style1/1.png" alt="Images">
                         </div>
                         <div class="testi-information">
                             <div class="testi-name">Cliente 2</div>
@@ -167,7 +167,7 @@
                     </div>
                     <div class="testi-content">
                         <div class="image-wrap">
-                            <img src="assets/images/testimonial/style1/3.jpg" alt="Images">
+                            <img src="assets/images/testimonial/style1/1.png" alt="Images">
                         </div>
                         <div class="testi-information">
                             <div class="testi-name">Cliente 3</div>
@@ -188,7 +188,7 @@
                     </div>
                     <div class="testi-content">
                         <div class="image-wrap">
-                            <img src="assets/images/testimonial/style1/4.jpg" alt="Images">
+                            <img src="assets/images/testimonial/style1/1.png" alt="Images">
                         </div>
                         <div class="testi-information">
                             <div class="testi-name">Cliente 4</div>
@@ -209,7 +209,7 @@
                     </div>
                     <div class="testi-content">
                         <div class="image-wrap">
-                            <img src="assets/images/testimonial/style1/1.jpg" alt="Images">
+                            <img src="assets/images/testimonial/style1/1.png" alt="Images">
                         </div>
                         <div class="testi-information">
                             <div class="testi-name">Cliente 5</div>
