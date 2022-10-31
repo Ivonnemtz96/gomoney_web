@@ -1,7 +1,7 @@
 
 <footer id="rs-footer" class="rs-footer footer-main-home">
     <div class="footer-top">
-        <div class="container">
+        <div hidden class="container">
             <div class="row">
                 <div class="col-lg-3 md-mb-20">
                     <div class="footer-logo mb-51 md-mb-30">
@@ -65,13 +65,13 @@
                         <li> 
                             <a href="#" target="_blank"><span><i class="fa fa-facebook"></i></span></a> 
                         </li>
-                        <li> 
+                        <!-- <li> 
                             <a href="# " target="_blank"><span><i class="fa fa-twitter"></i></span></a> 
                         </li>
 
                         <li> 
                             <a href="# " target="_blank"><span><i class="fa fa-pinterest-p"></i></span></a> 
-                        </li>
+                        </li> -->
                         <li> 
                             <a href="# " target="_blank"><span><i class="fa fa-instagram"></i></span></a> 
                         </li>                                  
@@ -79,7 +79,7 @@
                 </div>
                 <div class="col-lg-6">
                     <div class="copyright text-lg-start text-center ">
-                        <p>Copyright © 2022 Solvency. Designed By <a href="https://devsdesign.com/" target="blank"> Devsdesign</a></p>
+                        <p>Copyright © 2022 Go Money. Diseñado por <a href="https://bananagroup.mx" target="blank"> Banana Group Marketing</a></p>
                     </div>
                 </div>
             </div>

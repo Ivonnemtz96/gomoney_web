@@ -1,4 +1,3 @@
-
 <!-- Slider Start -->
 <div id="rs-slider" class="rs-slider rs-slider-style2">
     <div class="bend niceties">
@@ -18,7 +17,7 @@
                         <br> sin aval!<br>
                     </h1>
                     <p class="sl-desc">
-                       ¡Fácil, rápido y seguro!
+                        ¡Fácil, rápido y seguro!
                     </p>
                     <div class="slider-bottom">
                         <a class="readon slide-started" href="contact.html">Solicitar crédito</a>
@@ -59,12 +58,15 @@
                 <div class="services-item">
                     <div class="services-wrap">
                         <div class="services-icon">
-                            <img class="main-img" src="assets/images/services/main-home/main-icons/1.png" alt="Services">
-                            <img class="main-hover" src="assets/images/services/main-home/hover-img/1.png" alt="Services">
+                            <img class="main-img" src="assets/images/services/main-home/main-icons/1.png"
+                                alt="Services">
+                            <img class="main-hover" src="assets/images/services/main-home/hover-img/1.png"
+                                alt="Services">
                         </div>
                         <div class="services-content">
-                            <h3 class="title"> Credit Evaluation</h3>
-                            <p class="services-txt"> Lorem ipsum dolor sit amet consus sect
+                            <h3 class="title"> Evaluaciones rápidas</h3>
+                            <p class="services-txt">
+                                Lorem ipsum dolor sit amet consus sect
                                 adipiscing elit sed.</p>
                         </div>
                     </div>
@@ -74,13 +76,16 @@
                 <div class="services-item">
                     <div class="services-wrap">
                         <div class="services-icon">
-                            <img class="main-img" src="assets/images/services/main-home/main-icons/2.png" alt="Services">
-                            <img class="main-hover" src="assets/images/services/main-home/hover-img/2.png" alt="Services">
+                            <img class="main-img" src="assets/images/services/main-home/main-icons/2.png"
+                                alt="Services">
+                            <img class="main-hover" src="assets/images/services/main-home/hover-img/2.png"
+                                alt="Services">
                         </div>
                         <div class="services-content">
-                            <h3 class="title">Set a Goal</h3>
-                            <p class="services-txt"> Lorem ipsum dolor sit amet consus sect
-                                adipiscing elit sed.</p>
+                            <h3 class="title">Menos de 1 hora</h3>
+                            <p class="services-txt">
+                                ¡Recibe tu dinero en menos de 1 hora!
+                            </p>
                         </div>
                     </div>
                 </div>
@@ -89,13 +94,16 @@
                 <div class="services-item">
                     <div class="services-wrap">
                         <div class="services-icon">
-                            <img class="main-img" src="assets/images/services/main-home/main-icons/3.png" alt="Services">
-                            <img class="main-hover" src="assets/images/services/main-home/hover-img/3.png" alt="Services">
+                            <img class="main-img" src="assets/images/services/main-home/main-icons/3.png"
+                                alt="Services">
+                            <img class="main-hover" src="assets/images/services/main-home/hover-img/3.png"
+                                alt="Services">
                         </div>
                         <div class="services-content">
-                            <h3 class="title">Get Results</h3>
-                            <p class="services-txt"> Lorem ipsum dolor sit amet consus sect
-                                adipiscing elit sed.</p>
+                            <h3 class="title">disfruta sin preocuparte</h3>
+                            <p class="services-txt">
+                                Go Money está para apoyarte. <br><br>
+                            </p>
                         </div>
                     </div>
                 </div>
@@ -118,10 +126,12 @@
                 <div class="sec-title mb-40 md-mb-25">
                     <span class="sub-text">Nosotros</span>
                     <h2 class="title pb-25">
-                        Rebuild, Repair & Improve Your Credit Score!
+                        Go Money, préstamos rápidos
                     </h2>
                     <p class="desc">
-                        On the other hand we denounce with righteous indignation and dislike men who are so beguiled and demoralized by the charms of pleasure of the moment .
+                        Lorem, ipsum dolor sit amet consectetur adipisicing elit. Aspernatur assumenda, accusantium quia
+                        asperiores reprehenderit blanditiis ab eius quae adipisci ratione? Debitis omnis quaerat
+                        repellat ea, consectetur ratione doloremque sint laborum.
                     </p>
                 </div>
                 <div class="rs-addon-services">
@@ -133,9 +143,10 @@
                                         <img src="assets/images/about/style1/icons/1.png" alt="">
                                     </div>
                                     <div class="services-content">
-                                        <h3 class="title">Credit Repairing</h3>
-                                        <p class="services-txt"> we are always ensure to our
-                                            best for ours.</p>
+                                        <h3 class="title">Créditos rápidos</h3>
+                                        <p class="services-txt">
+                                            Lorem, ipsum dolor sit amet consectetur adipisicing elit.
+                                        </p>
                                     </div>
                                 </div>
                             </div>
@@ -147,9 +158,10 @@
                                         <img src="assets/images/about/style1/icons/2.png" alt="">
                                     </div>
                                     <div class="services-content">
-                                        <h3 class="title">Credit Consulting</h3>
-                                        <p class="services-txt"> we are always ensure to our
-                                            best for ours.</p>
+                                        <h3 class="title">Menos de 1 hora</h3>
+                                        <p class="services-txt">
+                                            ¡Recibe tu dinero en menos de 1 hora! <br><br>
+                                        </p>
                                     </div>
                                 </div>
                             </div>
@@ -166,9 +178,9 @@
 <div id="rs-tab-main" class="rs-tab-main tab-content-style1 bg1 pt-120 pb-166 md-pt-80 md-pb-80">
     <div class="container">
         <div class="sec-title mb-45">
-            <span class="sub-text">Premium Services</span>
+            <span class="sub-tex">Para cualquier apuro!</span>
             <h2 class="title">
-                Our Latest Services
+                ¡Tu decides como lo usas!
             </h2>
         </div>
         <div class="rs-tab-main">
@@ -176,7 +188,7 @@
             <ul class="nav">
                 <li class="nav-item active">
                     <a class="nav-link" data-bs-toggle="tab" href="#credit-repair">
-                        Credit Repair
+                        Regalos
                         <em>
                             <img class="main-img" src="assets/images/tab/main-img/1.png" alt="Tab">
                             <img class="hover-img" src="assets/images/tab/hover-img/1.png" alt="Tab">
@@ -185,7 +197,7 @@
                 </li>
                 <li class="nav-item">
                     <a class="nav-link" data-bs-toggle="tab" href="#credit-audit">
-                        Credit Audit
+                        Reparaciones
                         <em>
                             <img class="main-img" src="assets/images/tab/main-img/2.png" alt="Tab">
                             <img class="hover-img" src="assets/images/tab/hover-img/2.png" alt="Tab">
@@ -194,7 +206,7 @@
                 </li>
                 <li class="nav-item">
                     <a class="nav-link" data-bs-toggle="tab" href="#education">
-                        Education
+                        Familia
                         <em>
                             <img class="main-img" src="assets/images/tab/main-img/3.png" alt="Tab">
                             <img class="hover-img" src="assets/images/tab/hover-img/3.png" alt="Tab">
@@ -203,7 +215,7 @@
                 </li>
                 <li class="nav-item">
                     <a class="nav-link" data-bs-toggle="tab" href="#business">
-                        business
+                        Negocio
                         <em>
                             <img class="main-img" src="assets/images/tab/main-img/4.png" alt="Tab">
                             <img class="hover-img" src="assets/images/tab/hover-img/4.png" alt="Tab">
@@ -218,7 +230,8 @@
                             <div class="prelements-heading">
                                 <h2 class="title">Credit Repair Services</h2>
                                 <p class="description pb-17">
-                                    On the other hand we denounce with righteous indignation and dislike men who are so beguiled and demoralized by the charms of pleasure of the moment by desire.
+                                    On the other hand we denounce with righteous indignation and dislike men who are so
+                                    beguiled and demoralized by the charms of pleasure of the moment by desire.
                                 </p>
                                 <ul class="check-lists">
                                     <li>We cannot promis specific timelineI guarantee results.</li>
@@ -243,7 +256,8 @@
                             <div class="prelements-heading">
                                 <h2 class="title">Credit Audit Services</h2>
                                 <p class="description pb-17">
-                                    On the other hand we denounce with righteous indignation and dislike men who are so beguiled and demoralized by the charms of pleasure of the moment by desire.
+                                    On the other hand we denounce with righteous indignation and dislike men who are so
+                                    beguiled and demoralized by the charms of pleasure of the moment by desire.
                                 </p>
                                 <ul class="check-lists">
                                     <li>We cannot promis specific timelineI guarantee results.</li>
@@ -268,7 +282,8 @@
                             <div class="prelements-heading">
                                 <h2 class="title">Education System Services</h2>
                                 <p class="description pb-17">
-                                    On the other hand we denounce with righteous indignation and dislike men who are so beguiled and demoralized by the charms of pleasure of the moment by desire.
+                                    On the other hand we denounce with righteous indignation and dislike men who are so
+                                    beguiled and demoralized by the charms of pleasure of the moment by desire.
                                 </p>
                                 <ul class="check-lists">
                                     <li>We cannot promis specific timelineI guarantee results.</li>
@@ -293,7 +308,8 @@
                             <div class="prelements-heading">
                                 <h2 class="title">Solvency Business Services</h2>
                                 <p class="description pb-17">
-                                    On the other hand we denounce with righteous indignation and dislike men who are so beguiled and demoralized by the charms of pleasure of the moment by desire.
+                                    On the other hand we denounce with righteous indignation and dislike men who are so
+                                    beguiled and demoralized by the charms of pleasure of the moment by desire.
                                 </p>
                                 <ul class="check-lists">
                                     <li>We cannot promis specific timelineI guarantee results.</li>
@@ -323,10 +339,10 @@
 <div class="rs-services services-style1 pt-120 pb-120 md-pt-80 md-pb-80">
     <div class="container">
         <div class="sec-title text-center mb-40 md-mb-25">
-            <span class="sub-text">How We Work</span>
+            <span class="sub-text">¿Cómo trabajamos?</span>
             <h2 class="title">
-                How Our Credit Repair and<br>
-                Restoration Works
+                Los pasos a seguir para<br>
+                conseguir tu crédito
             </h2>
         </div>
         <div class="row">
@@ -438,34 +454,83 @@
             <div class="col-lg-4"></div>
             <div class="col-lg-6">
                 <div class="sec-title mb-45 md-mb-25">
-                    <span class="sub-text">Case Study</span>
+                    <span class="sub-text">¿Ya conoces nuestras sucursales?</span>
                     <h2 class="title">
-                        Discover Our Credit Repair<br>
-                        and Restoration Works
+                        ¡Estamos cerca de ti!<br>
                     </h2>
                 </div>
             </div>
         </div>
-        <div class="rs-carousel owl-carousel" data-loop="true" data-items="3" data-margin="30" data-autoplay="false" data-hoverpause="true" data-autoplay-timeout="5000" data-smart-speed="800" data-dots="false" data-nav="false" data-nav-speed="false" data-md-device="3" data-md-device-nav="false" data-md-device-dots="true" data-center-mode="false" data-ipad-device2="2" data-ipad-device-nav2="false" data-ipad-device-dots2="true" data-ipad-device="2" data-ipad-device-nav="false" data-ipad-device-dots="true" data-mobile-device="1" data-mobile-device-nav="false" data-mobile-device-dots="true">
+        <div class="rs-carousel owl-carousel" data-loop="true" data-items="3" data-margin="30" data-autoplay="false"
+            data-hoverpause="true" data-autoplay-timeout="5000" data-smart-speed="800" data-dots="false"
+            data-nav="false" data-nav-speed="false" data-md-device="3" data-md-device-nav="false"
+            data-md-device-dots="true" data-center-mode="false" data-ipad-device2="2" data-ipad-device-nav2="false"
+            data-ipad-device-dots2="true" data-ipad-device="2" data-ipad-device-nav="false" data-ipad-device-dots="true"
+            data-mobile-device="1" data-mobile-device-nav="false" data-mobile-device-dots="true">
 
             <div class="project-item">
                 <div class="project-img">
-                    <img src="assets/images/project/style1/1.jpg" alt="images">
+                    <img src="assets/images/project/style1/3.jpg" alt="images">
                 </div>
                 <div class="project-content">
                     <div class="project-inner">
-                        <h3 class="title"><a href="case-studies-single.html">Business Analytics</a></h3>
-                        <p class="category"><a href="case-studies-single.html">Business</a></p>
+                        <h3 class="title"><a href="#"> San José del Cabo, B.C.S.</a></h3>
+                        <!-- <p class="category"><a href="#">Pablo L. Martínez, 23407</a></p> -->
                     </div>
                 </div>
             </div>
             <div class="project-item">
                 <div class="project-img">
-                    <img src="assets/images/project/style1/2.jpg" alt="images">
+                    <img src="assets/images/project/style1/3.jpg" alt="images">
                 </div>
                 <div class="project-content">
                     <div class="project-inner">
-                        <h3 class="title"><a href="case-studies-single.html">Business Planning</a></h3>
+                        <h3 class="title"><a href="case-studies-single.html">San José del Cabo, B.C.S.</a></h3>
+                        <!-- <p class="category"><a href="case-studies-single.html">Carr.Transpeninsular KM 34, El Rosarito</a></p> -->
+                    </div>
+                </div>
+            </div>
+            <div class="project-item">
+                <div class="project-img">
+                    <img src="assets/images/project/style1/3.jpg" alt="images">
+                </div>
+                <div class="project-content">
+                    <div class="project-inner">
+                        <h3 class="title"><a href="case-studies-single.html">Cabo San Lucas, B.C.S.</a></h3>
+                        <!-- <p class="category"><a href="case-studies-single.html">Plaza Los Patios, Brisas del Pacifico </a></p> -->
+                    </div>
+                </div>
+            </div>
+
+            <div class="project-item">
+                <div class="project-img">
+                    <img src="assets/images/project/style1/3.jpg" alt="images">
+                </div>
+                <div class="project-content">
+                    <div class="project-inner">
+                        <h3 class="title"><a href="case-studies-single.html">La Paz, B.C.S.</a></h3>
+                        <!-- <p class="category"><a href="case-studies-single.html">Blvd. Forjadores 500, Bella Vista </a></p> -->
+                    </div>
+                </div>
+            </div>
+            <div class="project-item">
+                <div class="project-img">
+                    <img src="assets/images/project/style1/3.jpg" alt="images">
+                </div>
+                <div class="project-content">
+                    <div class="project-inner">
+                        <h3 class="title"><a href="case-studies-single.html">Ciudad Constitución, B.C.S</a></h3>
+                        <!-- <p class="category"><a href="case-studies-single.html">Business</a></p> -->
+                    </div>
+                </div>
+            </div>
+            <!-- <div class="project-item">
+                <div class="project-img">
+                    <img src="assets/images/project/style1/3.jpg" alt="images">
+                </div>
+                <div class="project-content">
+                    <div class="project-inner">
+                        <h3 class="title"><a href="case-studies-single.html">Business Analytics</a></h3>
                         <p class="category"><a href="case-studies-single.html">Business</a></p>
                     </div>
                 </div>
@@ -476,55 +541,11 @@
                 </div>
                 <div class="project-content">
                     <div class="project-inner">
-                        <h3 class="title"><a href="case-studies-single.html">Better Credit Restore</a></h3>
-                        <p class="category"><a href="case-studies-single.html">Business</a></p>
-                    </div>
-                </div>
-            </div>
-            <div class="project-item">
-                <div class="project-img">
-                    <img src="assets/images/project/style1/4.jpg" alt="images">
-                </div>
-                <div class="project-content">
-                    <div class="project-inner">
-                        <h3 class="title"><a href="case-studies-single.html">Increase Credit Score</a></h3>
-                        <p class="category"><a href="case-studies-single.html">Business</a></p>
-                    </div>
-                </div>
-            </div>
-            <div class="project-item">
-                <div class="project-img">
-                    <img src="assets/images/project/style1/5.jpg" alt="images">
-                </div>
-                <div class="project-content">
-                    <div class="project-inner">
-                        <h3 class="title"><a href="case-studies-single.html">Improved Credit Report</a></h3>
-                        <p class="category"><a href="case-studies-single.html">Business</a></p>
-                    </div>
-                </div>
-            </div>
-            <div class="project-item">
-                <div class="project-img">
-                    <img src="assets/images/project/style1/1.jpg" alt="images">
-                </div>
-                <div class="project-content">
-                    <div class="project-inner">
-                        <h3 class="title"><a href="case-studies-single.html">Business Analytics</a></h3>
-                        <p class="category"><a href="case-studies-single.html">Business</a></p>
-                    </div>
-                </div>
-            </div>
-            <div class="project-item">
-                <div class="project-img">
-                    <img src="assets/images/project/style1/2.jpg" alt="images">
-                </div>
-                <div class="project-content">
-                    <div class="project-inner">
                         <h3 class="title"><a href="case-studies-single.html">Business Planning</a></h3>
                         <p class="category"><a href="case-studies-single.html">Business</a></p>
                     </div>
                 </div>
-            </div>
+            </div> -->
         </div>
     </div>
 </div>
@@ -539,19 +560,19 @@
                     <div class="images-video">
                         <img class="js-tilt" src="assets/images/choose/style1/choose-video.jpg" alt="images">
                     </div>
-                    <div class="overly-border">
+                    <!-- <div class="overly-border">
                         <a class="popup-videos" href="https://www.youtube.com/watch?v=LpdRAyIGg8I">
                             <i class="fa fa-play"></i>
                         </a>
-                    </div>
+                    </div> -->
                 </div>
             </div>
             <div class="col-lg-6 pl-50 md-pl-15 pr-36 md-pr-15">
                 <div class="sec-title mb-30">
-                    <span class="sub-text">Why Choose Us</span>
+                    <span class="sub-text">¿Porqué elegirnos?</span>
                     <h2 class="title">
-                        Benefits of Better Credit<br>
-                        Score and Restoration
+                        Con Go Money<br>
+                        puedes estar tranquilo
                     </h2>
                 </div>
                 <div class="services-item mb-20">
@@ -559,9 +580,11 @@
                         <img src="assets/images/choose/style1/icons/1.png" alt="Images">
                     </div>
                     <div class="services-content">
-                        <h3 class="title"> Approval for Higher Limits</h3>
-                        <p class="services-txt"> On the other hand we denounce with righteous
-                            them and dislike men who are so beguiled blinded.</p>
+                        <h3 class="title">Préstamos rápidos</h3>
+                        <p class="services-txt">
+                            On the other hand we denounce with righteous
+                            them and dislike men who are so beguiled blinded.
+                        </p>
                     </div>
                 </div>
                 <div class="services-item mb-20">
@@ -569,7 +592,7 @@
                         <img src="assets/images/choose/style1/icons/2.png" alt="Images">
                     </div>
                     <div class="services-content">
-                        <h3 class="title">Qualify for Better Options</h3>
+                        <h3 class="title">Préstamos en 1 hora</h3>
                         <p class="services-txt"> On the other hand we denounce with righteous
                             them and dislike men who are so beguiled blinded.</p>
                     </div>
@@ -579,7 +602,7 @@
                         <img src="assets/images/choose/style1/icons/3.png" alt="Images">
                     </div>
                     <div class="services-content">
-                        <h3 class="title">More Negotiating Power</h3>
+                        <h3 class="title">Disfruta sin preocuparte</h3>
                         <p class="services-txt"> On the other hand we denounce with righteous
                             them and dislike men who are so beguiled blinded.</p>
                     </div>
@@ -595,11 +618,10 @@
     <div class="container">
         <div class="sec-title text-center ">
             <h2 class="title title2">
-                Are You Ready to Get Credit<br>
-                Repair Services?
+                ¿Sabías que te prestamos hasta $4,000 en menos de una hora? <br>
             </h2>
             <div class="btn-part mt-45 md-mt-30">
-                <a class="readon cta-started" href="contact.html">Get Started</a>
+                <a target="_blank"  class="readon cta-started" href="https://formulario.gomoneymx.com/">Solicitar</a>
             </div>
         </div>
     </div>
