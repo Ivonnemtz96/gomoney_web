@@ -62,12 +62,6 @@
                     <div class="col-cell">
                         <div class="expand-btn-inner">
                             <ul>
-                                <li class="sidebarmenu-search">
-                                    <a class="hidden-xs rs-search" data-bs-toggle="modal" data-bs-target="#searchModal"
-                                        href="#">
-                                        <i class="fi fi-rr-search"></i>
-                                    </a>
-                                </li>
                                 <li class="btn-quote"><a target="_blank" class="quote-button" href="https://formulario.gomoneymx.com/">Solicitar Crédito</a></li>
                                 <li class="humburger">
                                     <a id="nav-expander" class="nav-expander bar" href="#">
