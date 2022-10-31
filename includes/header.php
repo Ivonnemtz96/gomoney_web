@@ -10,11 +10,11 @@
                         <div class="toolbar-contact">
                             <ul class="rs-contact-info">
                                 <li>
-                                    <i class="fi fi-rr-envelope-plus"></i>
+                                    <i style="color: #f4a516;" class="fi fi-rr-envelope-plus"></i>
                                     <a href="mailto:cobranza@gomoney.mx">cobranza@gomoney.mx</a>
                                 </li>
                                 <li>
-                                    <i class="fi fi-rr-phone-call"></i>
+                                    <i style="color: #f4a516;" class="fi fi-rr-phone-call"></i>
                                     <a href="tel:6241911714">+52 624 191 1714</a>
                                 </li>
                             </ul>
@@ -23,8 +23,8 @@
                     <div class="col-lg-5">
                         <div class="toolbar-sl-share">
                             <ul class="clearfix">
-                                <li><a target="_blank" href="https://www.facebook.com/Gomoneyprestamos"><i class="fa fa-facebook"></i></a></li>
-                                <li><a target="_blank" href="https://www.instagram.com/gomoneymx/"><i class="fa fa-instagram"></i></a></li>
+                                <li><a target="_blank" href="https://www.facebook.com/Gomoneyprestamos"><i style="color: #f4a516;" class="fa fa-facebook"></i></a></li>
+                                <li><a target="_blank" href="https://www.instagram.com/gomoneymx/"><i style="color: #f4a516;" class="fa fa-instagram"></i></a></li>
                             </ul>
                         </div>
                     </div>
@@ -50,12 +50,10 @@
                             <div class="main-menu">
                                 <nav class="rs-menu hidden-md">
                                     <ul class="nav-menu onepage-menu">
-                                        <li class="current-menu-item"><a href="#rs-header">Home</a></li>
-                                        <li><a href="#rs-about">About</a> </li>
-                                        <li><a href="#rs-tab-main">Services</a> </li>
-                                        <li><a href="#rs-project">Portfolios</a> </li>
-                                        <li><a href="#rs-blog">Blog</a> </li>
-                                        <li><a href="#rs-faq">Contact</a> </li>
+                                        <li class="current-menu-item"><a href="#rs-header">Inicio</a></li>
+                                        <li><a href="#rs-about">Nosotros</a> </li>
+                                        <li><a href="#rs-tab-main">Pasos</a> </li>
+                                        <li><a href="#rs-project">Sucursales</a> </li>
                                     </ul> <!-- //.nav-menu -->
                                 </nav>
                             </div> <!-- //.main-menu -->
@@ -70,7 +68,7 @@
                                         <i class="fi fi-rr-search"></i>
                                     </a>
                                 </li>
-                                <li class="btn-quote"><a class="quote-button" href="#">Get A Quote</a></li>
+                                <li class="btn-quote"><a target="_blank" class="quote-button" href="https://formulario.gomoneymx.com/">Solicitar Crédito</a></li>
                                 <li class="humburger">
                                     <a id="nav-expander" class="nav-expander bar" href="#">
                                         <div class="bar">

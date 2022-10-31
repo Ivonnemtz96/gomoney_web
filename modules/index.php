@@ -145,7 +145,7 @@
                                     <div class="services-content">
                                         <h3 class="title">Créditos rápidos</h3>
                                         <p class="services-txt">
-                                            Lorem, ipsum dolor sit amet consectetur adipisicing elit.
+                                            ¡No tienes que hacer filas! Puedes solicitarlo desde nuestro link.
                                         </p>
                                     </div>
                                 </div>
@@ -228,24 +228,24 @@
                     <div class="row y-middle">
                         <div class="col-lg-6">
                             <div class="prelements-heading">
-                                <h2 class="title">Credit Repair Services</h2>
+                                <h2 class="title">¿Se acerca el día y no tienes los regalos?</h2>
                                 <p class="description pb-17">
-                                    On the other hand we denounce with righteous indignation and dislike men who are so
-                                    beguiled and demoralized by the charms of pleasure of the moment by desire.
+                                    Con <b>Go Money</b> puedes estar tranquilo, tienes el dinero que necesitas.
                                 </p>
                                 <ul class="check-lists">
-                                    <li>We cannot promis specific timelineI guarantee results.</li>
-                                    <li>We cannot promis specific timelineI the guarantee</li>
-                                    <li>We cannot promis of specific timelineI options</li>
+                                    <li>Fácil</li>
+                                    <li>Rápido</li>
+                                    <li>Seguro</li>
                                 </ul>
                                 <div class="btn-part mt-50">
-                                    <a class="readon details" href="credit-repair.html">VIew Details</a>
+                                    <a target="_blank" class="readon details"
+                                        href="https://formulario.gomoneymx.com/">Solicitar crédito</a>
                                 </div>
                             </div>
                         </div>
                         <div class="col-lg-6">
                             <div class="tab-img">
-                                <img src="assets/images/tab/1.png" alt="Images">
+                                <img src="assets/images/tab/1.jpg" alt="Images">
                             </div>
                         </div>
                     </div>
@@ -254,24 +254,25 @@
                     <div class="row y-middle">
                         <div class="col-lg-6">
                             <div class="prelements-heading">
-                                <h2 class="title">Credit Audit Services</h2>
+                                <h2 class="title">Reparaciones</h2>
                                 <p class="description pb-17">
-                                    On the other hand we denounce with righteous indignation and dislike men who are so
-                                    beguiled and demoralized by the charms of pleasure of the moment by desire.
+                                    Que el dinero no te detenga, préstamos en menos de 1 hora y a tu medida para
+                                    cualquier imprevisto.
                                 </p>
                                 <ul class="check-lists">
-                                    <li>We cannot promis specific timelineI guarantee results.</li>
-                                    <li>We cannot promis specific timelineI the guarantee</li>
-                                    <li>We cannot promis of specific timelineI options</li>
+                                    <li>Fácil</li>
+                                    <li>Rápido</li>
+                                    <li>Seguro</li>
                                 </ul>
                                 <div class="btn-part mt-50">
-                                    <a class="readon details" href="credit-audit.html">VIew Details</a>
+                                    <a target="_blank" class="readon details"
+                                        href="https://formulario.gomoneymx.com/">Solicitar Crédito</a>
                                 </div>
                             </div>
                         </div>
                         <div class="col-lg-6">
                             <div class="tab-img">
-                                <img src="assets/images/tab/2.png" alt="Images">
+                                <img src="assets/images/tab/2.jpg" alt="Images">
                             </div>
                         </div>
                     </div>
@@ -280,24 +281,24 @@
                     <div class="row y-middle">
                         <div class="col-lg-6">
                             <div class="prelements-heading">
-                                <h2 class="title">Education System Services</h2>
+                                <h2 class="title">Familia</h2>
                                 <p class="description pb-17">
-                                    On the other hand we denounce with righteous indignation and dislike men who are so
-                                    beguiled and demoralized by the charms of pleasure of the moment by desire.
+                                    Pasa tiempo en familia sin preocupaciones, <b>Go Money</b> te respalda.
                                 </p>
                                 <ul class="check-lists">
-                                    <li>We cannot promis specific timelineI guarantee results.</li>
-                                    <li>We cannot promis specific timelineI the guarantee</li>
-                                    <li>We cannot promis of specific timelineI options</li>
+                                    <li>Fácil</li>
+                                    <li>Rápido</li>
+                                    <li>Seguro</li>
                                 </ul>
                                 <div class="btn-part mt-50">
-                                    <a class="readon details" href="credit-education.html">VIew Details</a>
+                                    <a target="_blank" class="readon details"
+                                        href="https://formulario.gomoneymx.com/">Solicitar Crédito</a>
                                 </div>
                             </div>
                         </div>
                         <div class="col-lg-6">
                             <div class="tab-img">
-                                <img src="assets/images/tab/3.png" alt="Images">
+                                <img src="assets/images/tab/3.jpg" alt="Images">
                             </div>
                         </div>
                     </div>
@@ -306,24 +307,24 @@
                     <div class="row y-middle">
                         <div class="col-lg-6">
                             <div class="prelements-heading">
-                                <h2 class="title">Solvency Business Services</h2>
+                                <h2 class="title">¿Quieres hacer crecer tu negocio y no tienes cómo?</h2>
                                 <p class="description pb-17">
-                                    On the other hand we denounce with righteous indignation and dislike men who are so
-                                    beguiled and demoralized by the charms of pleasure of the moment by desire.
+                                    No te preocupes, solución efectiva a tus necesidades.
                                 </p>
                                 <ul class="check-lists">
-                                    <li>We cannot promis specific timelineI guarantee results.</li>
-                                    <li>We cannot promis specific timelineI the guarantee</li>
-                                    <li>We cannot promis of specific timelineI options</li>
+                                    <li>Fácil</li>
+                                    <li>Rápido</li>
+                                    <li>Seguro</li>
                                 </ul>
                                 <div class="btn-part mt-50">
-                                    <a class="readon details" href="business-credit.html">VIew Details</a>
+                                    <a target="_blank" class="readon details"
+                                        href="https://formulario.gomoneymx.com/">Solicitar Crédito</a>
                                 </div>
                             </div>
                         </div>
                         <div class="col-lg-6">
                             <div class="tab-img">
-                                <img src="assets/images/tab/4.png" alt="Images">
+                                <img src="assets/images/tab/4.jpg" alt="Images">
                             </div>
                         </div>
                     </div>
@@ -621,7 +622,7 @@
                 ¿Sabías que te prestamos hasta $4,000 en menos de una hora? <br>
             </h2>
             <div class="btn-part mt-45 md-mt-30">
-                <a target="_blank"  class="readon cta-started" href="https://formulario.gomoneymx.com/">Solicitar</a>
+                <a target="_blank" class="readon cta-started" href="https://formulario.gomoneymx.com/">Solicitar</a>
             </div>
         </div>
     </div>
