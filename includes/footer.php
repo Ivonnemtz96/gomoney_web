@@ -63,17 +63,10 @@
                 <div class="col-lg-6 md-mb-10 text-lg-end text-center order-last">
                     <ul class="footer-social md-mb-7">  
                         <li> 
-                            <a href="#" target="_blank"><span><i class="fa fa-facebook"></i></span></a> 
+                            <a href="https://www.facebook.com/Gomoneyprestamos" target="_blank"><span><i class="fa fa-facebook"></i></span></a> 
                         </li>
-                        <!-- <li> 
-                            <a href="# " target="_blank"><span><i class="fa fa-twitter"></i></span></a> 
-                        </li>
-
                         <li> 
-                            <a href="# " target="_blank"><span><i class="fa fa-pinterest-p"></i></span></a> 
-                        </li> -->
-                        <li> 
-                            <a href="# " target="_blank"><span><i class="fa fa-instagram"></i></span></a> 
+                            <a href="https://www.instagram.com/gomoneymx/" target="_blank"><span><i class="fa fa-instagram"></i></span></a> 
                         </li>                                  
                     </ul>
                 </div>

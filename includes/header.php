@@ -11,11 +11,11 @@
                             <ul class="rs-contact-info">
                                 <li>
                                     <i class="fi fi-rr-envelope-plus"></i>
-                                    <a href="mailto:support@devsdesign.net">support@devsdesign.net</a>
+                                    <a href="mailto:cobranza@gomoney.mx">cobranza@gomoney.mx</a>
                                 </li>
                                 <li>
                                     <i class="fi fi-rr-phone-call"></i>
-                                    <a href="tel:(+088)589-8745"> (+088) 589-8745</a>
+                                    <a href="tel:6241911714">+52 624 191 1714</a>
                                 </li>
                             </ul>
                         </div>
@@ -23,11 +23,8 @@
                     <div class="col-lg-5">
                         <div class="toolbar-sl-share">
                             <ul class="clearfix">
-                                <li><a href="#"><i class="fa fa-facebook"></i></a></li>
-                                <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-                                <li><a href="#"><i class="fa fa-rss"></i></a></li>
-                                <li><a href="#"><i class="fa fa-instagram"></i></a></li>
-                                <li><a href="#"><i class="fa fa-vimeo"></i></a></li>
+                                <li><a target="_blank" href="https://www.facebook.com/Gomoneyprestamos"><i class="fa fa-facebook"></i></a></li>
+                                <li><a target="_blank" href="https://www.instagram.com/gomoneymx/"><i class="fa fa-instagram"></i></a></li>
                             </ul>
                         </div>
                     </div>
